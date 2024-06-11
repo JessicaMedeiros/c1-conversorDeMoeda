@@ -8,7 +8,6 @@ import java.net.http.HttpResponse;
 
 public class ConsultaConversor {
 
-
     public Moeda buscarDados(String base_code) {
         URI endereco = URI.create("https://v6.exchangerate-api.com/v6/ee6f47ae8f20d632ce433273/latest/" + base_code);
 

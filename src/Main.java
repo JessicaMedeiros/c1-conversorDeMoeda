@@ -11,7 +11,6 @@ public class Main {
         ConsultaConversor consulta = new ConsultaConversor();
 
        int opcao;
-
        double valorParaConversao;
 
 
